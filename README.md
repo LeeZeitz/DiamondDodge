@@ -1,2 +1,1 @@
-# DiamondDodge
-Scripts for a Unity Game
+"# quicky-fast" 
